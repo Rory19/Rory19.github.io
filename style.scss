@@ -18,21 +18,32 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background: $white;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(0, 0, 0);
+
+  background-image: url("https://media.giphy.com/media/3o85xuMj18HeA47AZy/giphy.gif");
+  background-color: black;
+
 }
 
+
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+ margin: 0 auto;
+ max-width: 740px;
+ padding: 0 10px;
+ width: 100%;
+ background:rgba(35, 50, 55,0.9);
+    border-radius: 25px;
+   padding: 20px;
+    border-bottom: 1px solid white;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color:     rgb(255,0,0);
+;
   font-weight: bold;
 
   line-height: 1.7;
@@ -71,7 +82,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+    cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -114,7 +125,16 @@ img {
 .gmnoprint img {
   max-width: none;
 }
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 25px;
+}
+table, th, td {
+   border: 1px solid white;
+    background-color:rgb(8, 111, 254);
 
+}
 .date {
   font-style: italic;
   color: $gray;
@@ -287,3 +307,5 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
