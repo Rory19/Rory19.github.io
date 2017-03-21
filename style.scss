@@ -309,3 +309,7 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+[data-readmore-toggle] {
+  color: pink;
+  font-weight: bold;
+}
