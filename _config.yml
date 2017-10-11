@@ -17,7 +17,7 @@ avatar: http://68.media.tumblr.com/50af8ed4e4afcc4530c83057db147a91/tumblr_nltc6
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: none of your@hotmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
