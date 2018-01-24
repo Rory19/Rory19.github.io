@@ -14,4 +14,8 @@ Decoding was a little bit harder as we had to make a code that would use are key
 
 Finally we looked at Concatenate which is were we prepared our encoded message to be sent giving each letter a column and each column a letter. We have also tried out binary.
 
+
+
+
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR72AwYIdwm8izhgEz4GmCKcNm6wRQqNJrygdCYGdXQmGye01wO-RkBYTiIglzqnLBW9dy6mqfy-VDS/pubhtml?widget=true&amp;headers=false"></iframe>
