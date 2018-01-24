@@ -76,8 +76,10 @@ f)Burger king 35-42
 
 6f)In a smelly restaurant
 
-5 What would u bring with you on holiday?                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
+
+
+5 What would u bring with you on holiday?                                                                                                                                                                                                                                                                                                                                                                                                                                                
 6a)Just your family
 
 4b)Your saved up coupons
